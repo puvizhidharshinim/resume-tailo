@@ -1,1 +1,1 @@
-# resume-tailo
+# resume-tailor
